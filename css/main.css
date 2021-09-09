@@ -1,0 +1,22 @@
+html,body,h2{
+    box-sizing: border-box;
+    font-family: 'Space Mono', monospace;
+    margin: 0;
+	padding: 0;
+	border: 0;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --brown-color:#AD7611;
+    --purple-color:#6500A1;
+    --darkpurple-color:#380854;
+    --green-color:#0CED75;
+    --darkgreen-color:#0B6E39;
+    --white-color:white;
+    --galaxy-color:#222340;
+    --space-color:#262626;
+    --black-color:black;
+    --yellow-color:#e5be4c;
+    --red-color:#a4312e;
+}
